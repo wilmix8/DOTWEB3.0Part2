@@ -97,5 +97,9 @@ It is the best Programming language which interact with JWEB.
 
 22) PHY=> Interaction with phython P.L.
 
+23) 
+  JWEB2  Advanced Business
+=================================
+JWEB2  is focused  on  interaction  with JSWORD.
 
 Note: Here  we use  only   JDollar.exe  and JDollar .dll 
