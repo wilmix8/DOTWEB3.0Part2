@@ -103,3 +103,16 @@ It is the best Programming language which interact with JWEB.
 JWEB2  is focused  on  interaction  with JSWORD.
 
 Note: Here  we use  only   JDollar.exe  and JDollar .dll 
+
+
+24)  JWEB  with  JAVA8
+=======================
+
+JAVA8-J$  is  also  a part  of  JDollarPArt2
+
+
+
+25)  JWEB  with  AJAVA8
+=======================
+
+AJAVA8-J$  is  also  a part  of  JDollarPArt2
