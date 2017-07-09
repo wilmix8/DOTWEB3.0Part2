@@ -116,3 +116,8 @@ JAVA8-J$  is  also  a part  of  JDollarPArt2
 =======================
 
 AJAVA8-J$  is  also  a part  of  JDollarPArt2
+
+
+Technology code: 15  since 15 latest  technologies  are  most  important
+for  solving  complex  problems.
+
