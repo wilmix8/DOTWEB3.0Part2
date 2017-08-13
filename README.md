@@ -105,10 +105,10 @@ JWEB2  is focused  on  interaction  with JSWORD.
 Note: Here  we use  only   JDollar.exe  and JDollar .dll 
 
 
-24)  JWEB  with  JAVA8
+24)  JWEB  with  JAVA7
 =======================
 
-JAVA8-J$  is  also  a part  of  JDollarPArt2
+JAVA7(OAKJAVA) -J$  is  also  a part  of  JDollarPArt2
 
 
 
